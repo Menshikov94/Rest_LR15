@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a4df77b-6285-4692-8de0-c2a1fc194e79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rest_LR15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/model/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/model/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyErrorMassage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyRequestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyRequestSystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifySystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyUid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/MyModifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/RestLr15Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text/java/com/example/rest_lr15/RestLr15ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text/pom.xml" afterDir="false" />
+    <list default="true" id="0a4df77b-6285-4692-8de0-c2a1fc194e79" name="Changes" comment="lr15">
+      <change afterPath="$PROJECT_DIR$/.mvn.wrapper/maven-wrapper (1).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn.wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/model/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/model/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/model/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/model/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyErrorMassage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyErrorMassage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyRequestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyRequestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyRequestSystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyRequestSystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifySystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifySystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyUid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/ModifyUid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/MyModifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/Part1_2/service/MyModifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/RestLr15Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15/RestLr15Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/java/com/example/rest_lr15/RestLr15ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mmenshikov/IdeaProjects/Rest_LR15/src/wrapper&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mmenshikov/IdeaProjects/Rest_LR15/.mvn.wrapper"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmenshikov\IdeaProjects\Rest_LR15\.mvn.wrapper" />
       <recent name="C:\Users\mmenshikov\IdeaProjects\Rest_LR15\src\wrapper" />
     </key>
   </component>
@@ -91,6 +93,21 @@
       <option name="presentableId" value="Default" />
       <updated>1686568259461</updated>
     </task>
+    <task id="LOCAL-00001" summary="lr15">
+      <created>1686679494367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686679494367</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lr15">
+      <created>1686679620913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686679620913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lr15" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr15" />
   </component>
 </project>

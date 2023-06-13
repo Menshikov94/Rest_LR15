@@ -1,4 +1,4 @@
-package com.example.rest_lr15.Part1_2.model;
+package main.java.com.example.rest_lr15.Part1_2.model;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.NotBlank;

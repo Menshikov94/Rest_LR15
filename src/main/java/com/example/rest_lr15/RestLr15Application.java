@@ -1,4 +1,4 @@
-package com.example.rest_lr15;
+package main.java.com.example.rest_lr15;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

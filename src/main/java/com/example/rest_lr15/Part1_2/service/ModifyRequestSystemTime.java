@@ -1,6 +1,6 @@
-package com.example.rest_lr15.Part1_2.service;
+package main.java.com.example.rest_lr15.Part1_2.service;
 
-import com.example.rest_lr15.Part1_2.model.Request;
+import main.java.com.example.rest_lr15.Part1_2.model.Request;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpMethod;

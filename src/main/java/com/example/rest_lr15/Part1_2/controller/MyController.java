@@ -1,8 +1,8 @@
-package com.example.rest_lr15.Part1_2.controller;
+package main.java.com.example.rest_lr15.Part1_2.controller;
 
-import com.example.rest_lr15.Part1_2.model.Request;
-import com.example.rest_lr15.Part1_2.model.Response;
-import com.example.rest_lr15.Part1_2.service.MyModifyService;
+import main.java.com.example.rest_lr15.Part1_2.model.Request;
+import main.java.com.example.rest_lr15.Part1_2.model.Response;
+import main.java.com.example.rest_lr15.Part1_2.service.MyModifyService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
